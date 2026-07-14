@@ -1,0 +1,1202 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "richemont",
+      "points": [
+        [
+          165.68642641471456,
+          16.433180270097452
+        ],
+        [
+          227.33372957499614,
+          16.433180270097452
+        ],
+        [
+          227.33372957499614,
+          45.170290560982366
+        ],
+        [
+          165.68642641471456,
+          45.170290560982366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "richemont",
+      "points": [
+        [
+          229.20182967076227,
+          14.940343371869659
+        ],
+        [
+          287.11293263951165,
+          14.940343371869659
+        ],
+        [
+          287.11293263951165,
+          44.05066288731152
+        ],
+        [
+          229.20182967076227,
+          44.05066288731152
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "richemont",
+      "points": [
+        [
+          288.9810327352778,
+          13.820715698198825
+        ],
+        [
+          319.0,
+          13.820715698198825
+        ],
+        [
+          319.0,
+          42.93103521364067
+        ],
+        [
+          288.9810327352778,
+          42.93103521364067
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "richemont",
+      "points": [
+        [
+          258.7178111838668,
+          0.0
+        ],
+        [
+          319.0,
+          0.0
+        ],
+        [
+          319.0,
+          11.581460350857128
+        ],
+        [
+          258.7178111838668,
+          11.581460350857128
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          159.03846153846155,
+          79.8076923076923
+        ],
+        [
+          220.0,
+          107.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          223.0769230769231,
+          79.03846153846153
+        ],
+        [
+          284.0384615384615,
+          105.76923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          286.3461538461538,
+          77.5
+        ],
+        [
+          319.4230769230769,
+          106.34615384615384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          313.07692307692304,
+          108.84615384615384
+        ],
+        [
+          320.0,
+          137.1153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          272.5,
+          109.23076923076923
+        ],
+        [
+          310.57692307692304,
+          137.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          270.38461538461536,
+          109.23076923076923
+        ],
+        [
+          206.73076923076923,
+          139.23076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          203.65384615384613,
+          110.96153846153845
+        ],
+        [
+          145.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          141.9230769230769,
+          140.19230769230768
+        ],
+        [
+          81.92307692307692,
+          113.26923076923076
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          77.5,
+          140.76923076923077
+        ],
+        [
+          24.42307692307692,
+          114.61538461538461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          20.76923076923077,
+          142.1153846153846
+        ],
+        [
+          0.1923076923076934,
+          113.65384615384615
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          34.23076923076923,
+          81.92307692307692
+        ],
+        [
+          0.0,
+          110.30091669988043
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          35.57692307692307,
+          81.92307692307692
+        ],
+        [
+          61.92307692307692,
+          109.61538461538461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          64.03846153846153,
+          81.73076923076923
+        ],
+        [
+          125.1923076923077,
+          109.42307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          127.6923076923077,
+          80.76923076923076
+        ],
+        [
+          156.15384615384613,
+          108.07692307692308
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          143.46153846153845,
+          49.230769230769226
+        ],
+        [
+          200.0,
+          76.53846153846153
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          204.80769230769232,
+          47.88461538461538
+        ],
+        [
+          263.65384615384613,
+          75.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          266.3461538461538,
+          46.730769230769226
+        ],
+        [
+          308.46153846153845,
+          74.23076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          309.80769230769226,
+          46.92307692307692
+        ],
+        [
+          320.0,
+          72.49650349650355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          119.42307692307692,
+          45.76923076923077
+        ],
+        [
+          163.0769230769231,
+          17.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          117.6923076923077,
+          45.96153846153846
+        ],
+        [
+          87.88461538461539,
+          18.26923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          17.307692307692307,
+          51.53846153846154
+        ],
+        [
+          77.11538461538461,
+          77.6923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          14.807692307692307,
+          78.84615384615384
+        ],
+        [
+          0.0,
+          50.38461538461538
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          79.23076923076923,
+          49.42307692307692
+        ],
+        [
+          140.0,
+          77.6923076923077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          25.0,
+          48.07692307692307
+        ],
+        [
+          0.0,
+          20.25737420474262
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          38.65384615384615,
+          16.153846153846153
+        ],
+        [
+          0.0,
+          0.462680883472963
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          40.96153846153846,
+          16.346153846153847
+        ],
+        [
+          79.03846153846153,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          80.57692307692308,
+          15.576923076923077
+        ],
+        [
+          106.92307692307692,
+          0.3846153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          109.8076923076923,
+          15.384615384615383
+        ],
+        [
+          171.73076923076923,
+          0.9615384615384615
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          173.26923076923077,
+          15.0
+        ],
+        [
+          200.19230769230768,
+          0.5769230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          201.9230769230769,
+          14.423076923076923
+        ],
+        [
+          255.0,
+          0.7692307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          26.53846153846154,
+          20.576923076923077
+        ],
+        [
+          26.92307692307692,
+          32.69230769230769
+        ],
+        [
+          41.73076923076923,
+          32.69230769230769
+        ],
+        [
+          41.73076923076923,
+          47.88461538461538
+        ],
+        [
+          58.46153846153847,
+          46.92307692307692
+        ],
+        [
+          60.96153846153847,
+          45.57692307692307
+        ],
+        [
+          63.653846153846146,
+          45.38461538461538
+        ],
+        [
+          66.34615384615384,
+          47.69230769230769
+        ],
+        [
+          83.84615384615384,
+          46.34615384615385
+        ],
+        [
+          84.8076923076923,
+          43.84615384615385
+        ],
+        [
+          85.76923076923077,
+          19.23076923076923
+        ],
+        [
+          45.76923076923077,
+          20.0
+        ],
+        [
+          31.92307692307692,
+          20.19230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          27.115384615384613,
+          35.19230769230769
+        ],
+        [
+          39.80769230769231,
+          34.42307692307692
+        ],
+        [
+          40.0,
+          48.65384615384615
+        ],
+        [
+          26.92307692307692,
+          49.61538461538461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          259.0384615384615,
+          189.6153846153846
+        ],
+        [
+          258.8461538461538,
+          203.26923076923077
+        ],
+        [
+          285.0,
+          203.26923076923077
+        ],
+        [
+          283.8461538461538,
+          188.65384615384616
+        ],
+        [
+          260.57692307692304,
+          188.46153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          18.653846153846153,
+          144.8076923076923
+        ],
+        [
+          0.1923076923076934,
+          172.8846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          8.076923076923077,
+          175.0
+        ],
+        [
+          0.1923076923076934,
+          203.84615384615384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          8.26923076923077,
+          206.34615384615384
+        ],
+        [
+          0.384615384615385,
+          236.15384615384613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          8.846153846153847,
+          207.5
+        ],
+        [
+          24.807692307692307,
+          239.4230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          25.384615384615387,
+          208.46153846153845
+        ],
+        [
+          63.269230769230774,
+          237.69230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          66.53846153846153,
+          206.34615384615384
+        ],
+        [
+          106.53846153846153,
+          236.34615384615384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          108.84615384615384,
+          205.96153846153845
+        ],
+        [
+          178.46153846153845,
+          234.8076923076923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          179.61538461538458,
+          205.57692307692307
+        ],
+        [
+          247.5,
+          234.6153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          249.80769230769226,
+          205.19230769230768
+        ],
+        [
+          287.1153846153846,
+          233.84615384615384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          290.57692307692304,
+          204.4230769230769
+        ],
+        [
+          320.0,
+          232.3065742397138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          236.9230769230769,
+          140.76923076923077
+        ],
+        [
+          297.1153846153846,
+          168.84615384615384
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          300.96153846153845,
+          140.57692307692307
+        ],
+        [
+          320.0,
+          168.09786747905565
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          170.5769230769231,
+          142.69230769230768
+        ],
+        [
+          235.0,
+          170.19230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          168.84615384615387,
+          142.3076923076923
+        ],
+        [
+          150.5769230769231,
+          171.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          148.0769230769231,
+          171.73076923076923
+        ],
+        [
+          100.1923076923077,
+          142.8846153846154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          97.6923076923077,
+          142.69230769230768
+        ],
+        [
+          20.0,
+          171.9230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          9.423076923076923,
+          174.23076923076923
+        ],
+        [
+          91.53846153846153,
+          203.65384615384616
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          93.07692307692308,
+          173.65384615384616
+        ],
+        [
+          106.53846153846153,
+          203.65384615384616
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          107.88461538461539,
+          203.84615384615384
+        ],
+        [
+          198.46153846153845,
+          174.4230769230769
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          202.11538461538458,
+          174.6153846153846
+        ],
+        [
+          201.34615384615387,
+          201.73076923076923
+        ],
+        [
+          256.9230769230769,
+          202.3076923076923
+        ],
+        [
+          258.2692307692308,
+          188.07692307692307
+        ],
+        [
+          261.15384615384613,
+          186.73076923076923
+        ],
+        [
+          260.0,
+          173.07692307692307
+        ],
+        [
+          207.5,
+          173.46153846153845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tuffeau",
+      "points": [
+        [
+          262.88461538461536,
+          173.46153846153845
+        ],
+        [
+          264.0384615384615,
+          186.73076923076923
+        ],
+        [
+          284.80769230769226,
+          186.9230769230769
+        ],
+        [
+          286.7307692307692,
+          202.1153846153846
+        ],
+        [
+          320.0,
+          201.73516483516482
+        ],
+        [
+          320.0,
+          172.3076923076923
+        ],
+        [
+          290.96153846153845,
+          173.46153846153845
+        ],
+        [
+          286.3461538461538,
+          175.19230769230768
+        ],
+        [
+          280.0,
+          173.07692307692307
+        ],
+        [
+          265.96153846153845,
+          172.69230769230768
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "FLIR0138_rgb_aligned.jpg",
+  "imageData": null,
+  "imageHeight": 240,
+  "imageWidth": 320
+}
